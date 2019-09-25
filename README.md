@@ -1,6 +1,6 @@
 # README
 
-# STARTING THE GAME
+## STARTING THE GAME
 Provided in this repo is the original Pico-8 source code for Profrssor Cranium's Crazy Clone Maze (PCCCM)
 as well as a HTML/JS port of the game. 
   Option 1:
@@ -10,7 +10,7 @@ as well as a HTML/JS port of the game.
     You may download the pcccm_html folder and play PCCCM through your browser. Just open the 
     index.html file using your browser of choice (I know Chrome works) and you should be good to go!
     
-# Controls
+## Controls
 Start Menu Movement: Arrow UP/DOWN
 Start Menu Select: X
 Player Movement: Arrow Keys
