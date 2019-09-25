@@ -1,4 +1,4 @@
-## README
+# README
 
 # STARTING THE GAME
 Provided in this repo is the original Pico-8 source code for Profrssor Cranium's Crazy Clone Maze (PCCCM)
