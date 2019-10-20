@@ -1,6 +1,6 @@
 # README
 
-![Professor Cranium's Crazy Clone Maze](./pcccm.gif)
+![Professor Cranium's Crazy Clone Maze](./pcccm_1.gif)
 
 ## STARTING THE GAME
 Provided in this repo is the original Pico-8 source code for Profrssor Cranium's Crazy Clone Maze (PCCCM)
