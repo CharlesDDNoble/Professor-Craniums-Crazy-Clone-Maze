@@ -1,5 +1,7 @@
 # README
 
+![Professor Cranium's Crazy Clone Maze](./pcccm.gif)
+
 ## STARTING THE GAME
 Provided in this repo is the original Pico-8 source code for Profrssor Cranium's Crazy Clone Maze (PCCCM)
 as well as a HTML/JS port of the game. 
@@ -18,21 +20,3 @@ Interact W/Clone Vat: C
 Clone Movement: E S D F
 
 Thanks for playing!
-
-________
-|.(....|
-|(.....|
-|.(....|
-|......|
-|++..++|
-|.+~~+.|
-|.~Q~Q.|
-|.~~~~.|
-|.~~~~.|
-|++II++|
-|++II++|
-|++II_+|
-|++II++|
-|O+..+O|
-________
-
