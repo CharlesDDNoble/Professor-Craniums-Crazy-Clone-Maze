@@ -1,4 +1,6 @@
 # README
+## Description
+A simple platformer with an interesting cloning mechanic, made (in 2 days) as part of the Fall 2019 WMU Computer Club game jam.
 
 ![Professor Cranium's Crazy Clone Maze](./pcccm_1.gif)
 
