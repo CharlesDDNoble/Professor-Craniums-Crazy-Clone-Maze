@@ -16,10 +16,10 @@ as well as a HTML/JS port of the game.
 + Option 3:  
     [Play on itch.io](https://charlesddnoble.itch.io/pcccm)
 ## Controls
-Start Menu Movement: Arrow UP/DOWN
-Start Menu Select: X
-Player Movement: Arrow Keys
-Interact W/Clone Vat: C
-Clone Movement: E S D F
+Start Menu Movement: Arrow UP/DOWN  
+Start Menu Select: X  
+Player Movement: Arrow Keys  
+Interact W/Clone Vat: C  
+Clone Movement: E S D F  
 
 Thanks for playing!
