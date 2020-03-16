@@ -13,7 +13,7 @@ as well as a HTML/JS port of the game.
 + Option 2:
     - You may download the pcccm_html folder and play PCCCM through your browser. Just open the 
       index.html file using your browser of choice (I know Chrome works) and you should be good to go!
-+ Option 3:
++ Option 3:  
     [Play on itch.io](https://charlesddnoble.itch.io/pcccm)
 ## Controls
 Start Menu Movement: Arrow UP/DOWN
